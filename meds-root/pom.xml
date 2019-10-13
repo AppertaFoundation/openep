@@ -27,7 +27,7 @@
         <datasource-proxy-version>1.4.1</datasource-proxy-version>
         <guava.version>25.0-jre</guava.version>
         <hapi.version>2.2</hapi.version>
-        <hapi.fhir.version>2.0</hapi.fhir.version>
+        <hapi.fhir.version>4.0.3</hapi.fhir.version>
         <hikaridb.version>2.7.1</hikaridb.version>
         <html.encoder.version>1.2.1</html.encoder.version>
         <hibernate.version>5.2.17.Final</hibernate.version>
