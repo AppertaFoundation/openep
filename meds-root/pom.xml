@@ -47,7 +47,7 @@
         <mockito-kotlin.version>1.6.0</mockito-kotlin.version>
         <oracle-jdbc.version>11.2.0.2.0</oracle-jdbc.version>
         <poi-ooxml.version>4.0.1</poi-ooxml.version>
-        <resteasy.version>3.0.12.Final</resteasy.version>
+        <resteasy.version>3.14.0.Final</resteasy.version>
         <servlet-api.version>3.0.1</servlet-api.version>
         <sleuth.version>1.2.4.RELEASE</sleuth.version>
         <swagger.version>2.7.0</swagger.version>
